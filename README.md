@@ -1,14 +1,15 @@
 ## E-commerce discount GRPC client
 
-Contents
+## Content
+
 ========
 
-* [Description](#Description)
-* [gRPC](#gRPC)
-* [Requirements](#Requirements)
-* [Dependencies](#Dependencies)
-* [Installation](#Installation)
-* [Usage](#Usage)
+* [Description](##Description)
+* [gRPC](##gRPC)
+* [Requirements](##Requirements)
+* [Dependencies](##Dependencies)
+* [Installation](##Installation)
+* [Usage](##Usage)
 
 ## Description
 
@@ -23,15 +24,13 @@ E-commerce discount GRPC client is an API that works as a client for the discoun
 - Nodejs
 - Npm
 
-Installation
----
+## Installation
 
 **At the project root folder, run.**
 
 1.  `npm install`
 
-Usage
----
+## Usage
 
 - To start the node server, run `npm start`.
 
