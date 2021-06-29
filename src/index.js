@@ -31,7 +31,7 @@ app.get('/', (req, res) => {
             res.status(400).send('id field not found');
         }
 
-        var client = new hello_proto.Discount('localhost:50051',
+        var client = new hello_proto.Discount('discount:50051',
             grpc.credentials.createInsecure());
 
         return new Promise(function(resolve,reject) {
@@ -49,7 +49,7 @@ app.get('/', (req, res) => {
 
         res.json(data);
     }, function (data) {
-        res.status(503).send('Service Unavailable');
+        res.status(503).send('Discount service Unavailable');
     });
 });
 
