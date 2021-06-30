@@ -1,16 +1,5 @@
 ## E-commerce discount GRPC client
 
-## Content
-
-========
-
-* [Description](##Description)
-* [gRPC](##gRPC)
-* [Requirements](##Requirements)
-* [Dependencies](##Dependencies)
-* [Installation](##Installation)
-* [Usage](##Usage)
-
 ## Description
 
 E-commerce discount GRPC client is an API that works as a client for the discount service
