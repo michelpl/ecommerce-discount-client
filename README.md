@@ -4,7 +4,7 @@
 
 E-commerce discount GRPC client is an API that works as a client for the discount service
 
-##gRPC
+## gRPC
 
 [gRPC](https://grpc.io/) gRPC is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment.
 
